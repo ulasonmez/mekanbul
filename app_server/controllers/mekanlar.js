@@ -37,7 +37,7 @@ const mekanBilgisi = function (req, res) {
         "adres": "Centrum Garden AVM",
         "puan": "4",
         "imkanlar": ["Dünya Kahveleri", "Kekler", "Pastalar"],
-        "koordinatlar": {
+        "koordinat": {
             "enlem": "37.7",
             "boylam": "30.5"
         },
